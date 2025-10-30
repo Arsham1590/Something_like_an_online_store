@@ -1,2 +1,11 @@
-# Something_like_an_online_store
-Simple C# application/online store 
+# Online Store
+C# online store using Swagger
+
+## Features
+- Clean architecture
+- Using Controllers
+- Using JWTTokens
+- Using PasswordHasher
+- Using ServiceCollection
+- Using EntityFramework
+- etc...
